@@ -4,7 +4,7 @@ This is my personal portfolio website showcasing my projects, skills, and experi
 
 ## Live Demo
 
-https://timothieecantcode.github.io/Portfolio/
+https://timothieecantcode.github.io/portfolio/
 
 ## About Me
 
