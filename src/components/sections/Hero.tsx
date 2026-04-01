@@ -173,7 +173,7 @@ export const Hero = () => {
             </CTAButtons>
             <SocialLinks role="list" aria-label="Social media links">
               <a
-                href="https://github.com/timothieecantcode"
+                href="https://github.com/timothieecantcode/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Visit my GitHub profile"
@@ -185,7 +185,7 @@ export const Hero = () => {
                 <span className="sr-only">GitHub</span>
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/timothienguyen/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Visit my LinkedIn profile"
